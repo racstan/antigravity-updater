@@ -1,6 +1,6 @@
 {
   "name": "antigravity-updater",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Interactive auto-updater for Google Antigravity IDE and agy CLI on Linux",
   "type": "module",
   "bin": {

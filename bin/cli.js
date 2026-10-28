@@ -27,7 +27,7 @@ import {
 } from '../src/utils.js';
 
 // ─── Constants ───────────────────────────────────────────────────────────────
-const PKG_VERSION = '1.0.2';
+const PKG_VERSION = '1.0.3';
 const DOCS_URL = 'https://antigravity.google/docs/getting-started';
 const GITHUB_URL = 'https://github.com/racstan/antigravity-updater';
 const DONATE_URL = 'https://buymeacoffee.com/rachitasthana';
